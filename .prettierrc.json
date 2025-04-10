@@ -1,0 +1,10 @@
+{
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "semi": false,
+  "quoteProps": "as-needed",
+  "printWidth": 60,
+  "importOrderSeparation": true,
+  "importOrderSortSpecifiers": true,
+  "importOrderCaseInsensitive": true
+}
